@@ -23,7 +23,7 @@ message SubMess {
   optional SubSubMess sub1 = 9;
   optional SubSubMess sub2 = 10;
 };
- 
+
 enum TestEnumSmall {
   NEG_VALUE = -1;
   VALUE = 0;
